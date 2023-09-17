@@ -13,6 +13,8 @@ The dataset used for this project is available in CSV format with 963 rows and 2
 
 To enhance the performance and efficiency of our model, we utilized the Intel oneDAL (one Data Analytics Library). oneDAL is a powerful library developed by Intel for high-performance data analytics and machine learning tasks. It provides a range of optimized algorithms and tools that significantly accelerate the processing of data.
 
+![category_distribution]()
+
 **STEPS TAKEN**
 
 All the required libraries and packages, including Intel oneDAL, were imported, and then the required dataset for the project was loaded.
