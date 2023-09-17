@@ -97,3 +97,6 @@ By viewing Confusion Matrix it is easily deduced that SGD model is the best mode
 **CONCLUSION**
 
 The most successful model was found to be the Stochastic Gradient Descent Classifier for role classification based on resumes, with the significant support of the Intel oneDAL library to achieve efficient computation and optimization.
+
+
+![Intel oneAPI]()
