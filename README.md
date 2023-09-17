@@ -13,7 +13,7 @@ The dataset used for this project is available in CSV format with 963 rows and 2
 
 To enhance the performance and efficiency of our model, we utilized the Intel oneDAL (one Data Analytics Library). oneDAL is a powerful library developed by Intel for high-performance data analytics and machine learning tasks. It provides a range of optimized algorithms and tools that significantly accelerate the processing of data.
 
-![category_distribution]()
+![Intei oneAPI]()
 
 **STEPS TAKEN**
 
@@ -66,7 +66,19 @@ The classification models used are:
 
 **VISUALIZATION**
 
-(Include the visualization images as previously described in your readme.)
+### Dataset Head snapshot
+![data sample](https://user-images.githubusercontent.com/86421205/184983563-e11e69ab-266b-45ca-949c-68992b0a8dd5.png)
+
+### Accuracy Comparison of Different models
+![acuracy_comp(two)](https://user-images.githubusercontent.com/86421205/184983218-d01dba0d-98c0-4679-b08f-f2d65759df63.png)
+
+### Evaluating SGD on different classes
+![sgd](https://user-images.githubusercontent.com/86421205/184990143-e525fd7f-530c-4629-9f49-e5cb70668e17.png)
+
+### Confusion matrix for Stochastic Gradient Descent Algorithm
+![confusion_matrix_SGD](https://user-images.githubusercontent.com/86421205/184983825-5244289e-1583-4ac6-908d-fe0eb37bd7c9.png)
+
+By viewing Confusion Matrix it is easily deduced that SGD model is the best model for this project.
 
 **ACCURACIES**
 
