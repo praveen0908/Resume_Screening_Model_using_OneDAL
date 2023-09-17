@@ -7,7 +7,7 @@ Note: Text classification is an example of supervised machine learning since we 
 
 **DATASET**
 
-The dataset used for this project is available in CSV format with 963 rows and 2 columns. You can access the dataset [here](https://www.kaggle.com/datasets/dhainjeamita/updatedresumedataset?resource=download).
+The dataset used for this project is available in CSV format with 963 rows and 2 columns. You can access the dataset [here](https://github.com/praveen0908/Resume_Screening_Model_using_OneDAL/blob/main/UpdatedResumeDataSet.csv).
 
 **INTEL oneDAL LIBRARY**
 
