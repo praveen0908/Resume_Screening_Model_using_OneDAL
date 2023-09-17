@@ -13,7 +13,7 @@ The dataset used for this project is available in CSV format with 963 rows and 2
 
 To enhance the performance and efficiency of our model, we utilized the Intel oneDAL (one Data Analytics Library). oneDAL is a powerful library developed by Intel for high-performance data analytics and machine learning tasks. It provides a range of optimized algorithms and tools that significantly accelerate the processing of data.
 
-![Intei oneAPI](https://github.com/praveen0908/Resume_Screening_Model_using_OneDAL/blob/main/INTEL%20oneDAAL.png)
+![Intei oneAPI](https://github.com/praveen0908/Resume_Screening_Model_using_OneDAL/blob/main/INTEL%20oneDAAL.png) ![INTELBASE](https://github.com/praveen0908/Resume_Screening_Model_using_OneDAL/blob/main/BASE%20INTEL.png)
 
 **STEPS TAKEN**
 
